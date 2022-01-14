@@ -1,6 +1,9 @@
 # XRAY-SHUNT-PASSWALL
 ISIKAN DOMAIN DAN IP DI OTHER MANAGE DI PASSWALL
 
+# Download semua file
+https://github.com/MasterWifiNetworkSolution/XRAY-SHUNT-PASSWALL/archive/refs/heads/main.zip
+
 # LAN
 https://github.com/MasterWifiNetworkSolution/XRAY-SHUNT-PASSWALL/blob/main/LAN.txt
 
