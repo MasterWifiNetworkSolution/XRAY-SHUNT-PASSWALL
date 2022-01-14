@@ -8,6 +8,7 @@
 
 speedtest.cbn.id
 speedtest.net
+openspeedtest.com
 fast.com
 api.fast.com
 c.speedtestcustom.com
