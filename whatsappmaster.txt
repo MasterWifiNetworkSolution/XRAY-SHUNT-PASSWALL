@@ -1,0 +1,18 @@
+# Dukung channel saya dengan tekan subscribe di Master Wifi Netwok Solution
+# Aktifkan tombol lonceng agar bisa selalu dapat informasi terbaru dari saya
+# Silahkan di share jika informasi saya bermanfaat
+# Bagi yang ingin sawer untuk keberlanjutan silahkan melalui di bawah ini
+# via rekenng bank dan lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
+
+# > ISIKAN DI KOLOM DOMAIN
+
+g.whatsapp.net
+web.whatsapp.com
+scontent.whatsapp.net
+whatsapp.com
+static.whatsapp.net
+whatsapp.net
+mmg.whatsapp.net
+media.fbdj2-1.fna.whatsapp.net
+media-xsp1-2.cdn.whatsapp.net
+- DST-PORT,38211

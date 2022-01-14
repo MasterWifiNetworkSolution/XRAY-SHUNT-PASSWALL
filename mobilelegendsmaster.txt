@@ -1,0 +1,43 @@
+# Dukung channel saya dengan tekan subscribe di Master Wifi Netwok Solution
+# Aktifkan tombol lonceng agar bisa selalu dapat informasi terbaru dari saya
+# Silahkan di share jika informasi saya bermanfaat
+# Bagi yang ingin sawer untuk keberlanjutan silahkan melalui di bawah ini
+# via rekenng bank dan lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
+
+# > ISIKAN DI KOLOM DOMAIN
+
+www.mobilelegends.com
+api.mobilelegends.com
+static.mobilelegends.com
+play.mobilelegends.com
+m.mobilelegends.com
+www.mobilelegends.com
+applink.mobilelegends.com
+assistant.mobilelegends.com
+creatorcamp.mobilelegends.com
+dev-test-web.mobilelegends.com
+esports.mobilelegends.com
+ftp.mobilelegends.com
+game.mobilelegends.com
+lore.mobilelegends.com
+m.mobilelegends.com
+manage.mobilelegends.com
+moba.mobilelegends.com
+kh.mpl.mobilelegends.com
+my.mpl.mobilelegends.com
+mysg.mpl.mobilelegends.com
+mysg-s4.mpl.mobilelegends.com
+mysg-s5.mpl.mobilelegends.com
+mysg-s6.mpl.mobilelegends.com
+sg.mpl.mobilelegends.com
+www.sg.mpl.mobilelegends.com
+msc.mobilelegends.com
+mtacc.mobilelegends.com
+play.mobilelegends.com
+static.mobilelegends.com
+web.mobilelegends.com
+worlds.mobilelegends.com
+
+# > ISIKAN DI KOLOM IP
+
+104.64.0.0/10

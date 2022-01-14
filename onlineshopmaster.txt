@@ -1,0 +1,67 @@
+# Dukung channel saya dengan tekan subscribe di Master Wifi Netwok Solution
+# Aktifkan tombol lonceng agar bisa selalu dapat informasi terbaru dari saya
+# Silahkan di share jika informasi saya bermanfaat
+# Bagi yang ingin sawer untuk keberlanjutan silahkan melalui di bawah ini
+# via rekenng bank dan lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
+
+# > ISIKAN DI KOLOM DOMAIN
+
+wsa-sentry.shopeemobile.com
+api.shopee.co.id
+cf.shopee.co.id
+deo.shopeemobile.com
+mall.shopee.co.id
+external2.shopee.co.id
+shopee.co.id
+games.shopee.co.id
+livetech.shopee.co.id
+data-rep.livetech.shopee.co.id
+msdk.shopee.co.id
+live.shopee.co.id
+log-collector.shopee.co.id
+play-tx.vod.shopee.com
+feeds.shopee.co.id
+cf.shopee.sg
+df.infra.sz.shopee.co.id
+play-ws.vod.shopee.com
+seller-app.shopee.co.id
+seller.shopee.sg
+chatbot.shopee.co.id
+uss.ms.shopee.co.id
+play-tx.livestream.shopee.co.id
+chatroom-live.shopee.co.id
+c-api-bit.shopeemobile.com
+lazada.co.id
+acs-m.lazada.co.id
+lzd-img-global.slatic.ne
+pages.lazada.co.id
+member.lazada.co.id
+my-m.lazada.co.id
+retcode-sg-lazada.arms.aliyuncs.com
+id-log-emagzal.lazada.com
+s.lazada.co.id
+id-pull.lazada-seller.cn
+id-replay.lazada-seller.cn
+filebroker-cdn.lazada.co.id
+umlazada.alibaba.com
+time-ak.alicdn.com
+my.lazada.co.id
+laz-img-cdn.alicdn.com
+laz-g-cdn.alicdn.com
+icms-image.slatic.net
+fourier.taobao.com
+cart.lazada.co.id
+assets.alicdn.com
+bukalapak.com
+mitra.bukalapak.com
+bukabantuan.bukalapak.com
+api.bukalapak.com
+t.bukalapak.com
+static-hermes.bukalapak.com
+s4.bukalapak.com
+s3.bukalapak.com
+s2.bukalapak.com
+s1.bukalapak.com
+s0.bukalapak.com
+fragment.bukalapak.com
+assets.bukalapak.com
